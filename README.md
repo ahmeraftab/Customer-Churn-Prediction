@@ -11,7 +11,7 @@ This project predicts customer churn using machine learning models and serves pr
 6. Architecture diagram (`diagrams/churn_architecture_streamlit.png`)
 
 ## 📸 Architecture
-![Workflow](diagrams/churn_architecture_streamlit.png)
+![Workflow](churn_architecture_streamlit.png)
 
 ## 🔧 Installation
 ```bash
