@@ -8,7 +8,7 @@ This project predicts customer churn using machine learning models and serves pr
 3. Feature scaling (`scaler.pkl`)
 4. Model training & export (`model.pkl`)
 5. Interactive UI using Streamlit (`app.py`)
-6. Architecture diagram (`diagrams/churn_architecture_streamlit.png`)
+6. Architecture diagram (`churn_architecture_streamlit.png`)
 
 ## 📸 Architecture
 ![Workflow](churn_architecture_streamlit.png)
